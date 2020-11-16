@@ -1,0 +1,63 @@
+html, body{
+	height: 100%;
+}
+
+img{
+    max-width: 100%;
+    align-items: center;
+}
+
+/*cover*/
+
+.contenido-seccion{
+    padding: 5rem 0;
+}
+
+#primera{
+    background: #343539 center center no-repeat;
+	background-size: cover;
+}
+
+#servicios{
+    background: #45567D center center no-repeat;
+	background-size: cover;
+
+}
+
+#nosotros{
+    background: #343539 center center no-repeat;
+	background-size: cover;
+
+}
+
+.boton_personalizado{
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration:none;
+    padding: 1.59rem;
+    color: white;
+    background-color: #DC3545;
+    position: ;
+    }
+  .boton_personalizado:hover{
+    color: white;
+    text-decoration:none;
+    background-color: #343539;
+
+  }
+
+
+  .boton_personalizadoo{
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #343539;
+    border: 0px solid;
+  }
+  .boton_personalizadoo:hover{
+    background-color: #DC3545;
+    text-decoration: none;
+    color: white;
+  }
